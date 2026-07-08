@@ -6,3 +6,6 @@ git commit -m "Your commit message here"
 git push origin <remote-branch-name>
 #switch to a different branch
 git switch <branch-name>
+
+#pip command to install a package
+pip freeze > requirements.txt
